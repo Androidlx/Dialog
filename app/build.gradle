@@ -1,6 +1,6 @@
 apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
-group='com.example.lixin.mycustomdialog'
+group='com.github.Androidlx'
 android {
     compileSdkVersion 26
     buildToolsVersion "26.0.1"
